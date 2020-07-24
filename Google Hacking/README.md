@@ -11,7 +11,7 @@ __Operadores de Búsqueda:__
 + __NUMA__..__NUMB__. Busca que numeros que estén en el rango [NUMA,NUMB]
 + filetype: __extension__. Busca archivos del tipo extension.
 + ext: __extension__. Busca archivos del tipo extension.
-+ -__operador: arg__. se pueden crear condiciones excluyentes
++ - __operador: arg__. se pueden crear condiciones excluyentes
 [Más en operadores](https://support.google.com/websearch/?hl=es
 
 Si hacemos esta búsqueda=> inurl:security "phpmyadmin is free", podemos encontrar un sitio que nos cuenta
@@ -29,7 +29,18 @@ que en sus versiones anteriores guardaba contraseñas encriptadas pero desencrip
 Podemos excluir páginas que explican Google Hacking para una búsqueda usando por ejemplo, comandos 
 como este: __-intitle:intitle__
 
+Podemos usar la caché de Google para pasar desapercividos e incluso para ver información que ya no
+está disponible, por otro lado tendremos es posible que tengamos información no actualizada.
 
+Lo archivos con extensión .old son muy comunes para marcar un archivo como antiguo ,por ejemplo, index.old
 
+A veces se deja a los bots acceder a páginas que normalmente una persona no tendría acceso, así que 
+podemos cambiar nuestro user-agent para poder acceder aparentemente como un bot.
+
+Se puede usar Google Docs para abrir de documentos de forma más segura.
+
+Cuanto más se sepa, por ejemplo, de una tecnología mejores búsquedas podremos hacer Ejemplo:
+   ***SMC-RZ30 HOME //Es una búsqueda que podemos usar para localizar webcams SONY***
+   ***inurl:home/homeJ.html //Pero conociendo el sistema podemos hacer una mucha mejor búsqueda***
 
 
