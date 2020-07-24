@@ -11,7 +11,8 @@ __Operadores de Búsqueda:__
 + __NUMA__..__NUMB__. Busca que numeros que estén en el rango [NUMA,NUMB]
 + filetype: __extension__. Busca archivos del tipo extension.
 + ext: __extension__. Busca archivos del tipo extension.
-+ \- __operador: arg__. se pueden crear condiciones excluyentes
++ \- __operador: arg__. Hace el operador excluyente.
++ __filter=0__ en URL. Permite ver todos los resultados aunque sean muy parecidos 
 [Más en operadores](https://support.google.com/websearch/?hl=es)
 
 Si hacemos esta búsqueda=> inurl:security "phpmyadmin is free", podemos encontrar un sitio que nos cuenta
@@ -47,6 +48,8 @@ Cuanto más se sepa, por ejemplo, de una tecnología mejores búsquedas podremos
 Podemos permanecer más despapercibidos si el campo Referer(***"Campo de la petición que indica de dónde proviene el visitante"***)
 se mantiene, con la menor de cantidad de información posible,
 ***Ej, copiar una url de una búsqueda, abrir una nueva ventana y pegar la url ahí.***
+
+Se puede usar Google para ver las páginas más actualizadas.
 
 Existen los "Google Hacking Honeypots", páginas creadas para aparecer en los Google Dorks, que pueden ser utilizadas incluso
 para cazar a posibles ciberdelincuentes.
