@@ -39,8 +39,8 @@ podemos cambiar nuestro user-agent para poder acceder aparentemente como un bot.
 
 Se puede usar Google Docs para abrir de documentos de forma más segura.
 
-Cuanto más se sepa, por ejemplo, de una tecnología mejores búsquedas podremos hacer Ejemplo:
-   ***SMC-RZ30 HOME //Es una búsqueda que podemos usar para localizar webcams SONY***
-   ***inurl:home/homeJ.html //Pero conociendo el sistema podemos hacer una mucha mejor búsqueda***
+Cuanto más se sepa, por ejemplo, de una tecnología mejores búsquedas podremos hacer Ejemplo:<br/>
+   ***SMC-RZ30 HOME //Es una búsqueda que podemos usar para localizar webcams SONY***<br/>
+   ***inurl:home/homeJ.html //Pero conociendo el sistema podemos hacer una mucha mejor búsqueda***<br/>
 
 
