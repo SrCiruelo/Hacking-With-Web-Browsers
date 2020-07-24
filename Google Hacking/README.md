@@ -1,17 +1,17 @@
 __Operadores de Búsqueda:__
 
-+ "str". Busca exactamante str.
-+ "strA*strB". Busca que exista strA y strB pero no necesariamente una seguida de otra.
-+ "strA" AROUND(N) strB. Busca que exista strA y strB y que como mucho estén separadas por N palabras.
-+ inurl: str. Busca una página con str en la url.
-+ intitle: str. Busca una página con str en el título.
-+ intext: str. Busca una página con str en el texto
-+ site: url. Busca solo páginas del dominio indicado por url.
-+ strA OR strB. Funciona como el operador lógico OR.
-+ NUMA..NUMB. Busca que numeros que estén en el rango [NUMA,NUMB]
-+ filetype: extension. Busca archivos del tipo extension.
-+ ext: extension. Busca archivos del tipo extension.
-+ -. se pueden crear condiciones excluyentes
++ "__str__". Busca exactamante str.
++ "__strA*strB__". Busca que exista strA y strB pero no necesariamente una seguida de otra.
++ "__strA__" AROUND(__N__) __strB__. Busca que exista strA y strB y que como mucho estén separadas por N palabras.
++ inurl: __str__. Busca una página con str en la url.
++ intitle: __str__. Busca una página con str en el título.
++ intext: __str__. Busca una página con str en el texto
++ site: __url__. Busca solo páginas del dominio indicado por url.
++ __strA__ OR __strB__. Funciona como el operador lógico OR.
++ __NUMA__..__NUMB__. Busca que numeros que estén en el rango [NUMA,NUMB]
++ filetype: __extension__. Busca archivos del tipo extension.
++ ext: __extension__. Busca archivos del tipo extension.
++ -__operador: arg__. se pueden crear condiciones excluyentes
 [Más en operadores](https://support.google.com/websearch/?hl=es
 
 Si hacemos esta búsqueda=> inurl:security "phpmyadmin is free", podemos encontrar un sitio que nos cuenta
