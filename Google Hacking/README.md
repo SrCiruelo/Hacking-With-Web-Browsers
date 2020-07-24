@@ -44,3 +44,19 @@ Cuanto más se sepa, por ejemplo, de una tecnología mejores búsquedas podremos
    ***inurl:home/homeJ.html &nbsp;//Pero conociendo el sistema podemos hacer una mucha mejor búsqueda***<br/>
 
 
+Podemos permanecer más despapercibidos si el campo Referer("Campo de la petición que indica de dónde proviene el visitante")
+se mantiene, con la menor de cantidad posible, Ej, copiar una url de una búsqueda, abrir una nueva ventana y pegar la url ahí.
+
+Existen los "Google Hacking Honeypots", páginas creadas para aparecer en los Google Dorks, que pueden ser utilizadas incluso
+para cazar a posibles ciberdelincuentes.
+
+Se pueden acceder a muchas cosas no solo relacionadas con el sitio que se va atacar en sí mismo, por ejemplo, manuales utilizados
+para configurar los ordenadores de la empresa, facturas que indican el software del que hacen uso.
+
+SiteDigger permite hacer búsquedas, además de contar con dos bases de datos de Google Dorks GHDB por un lado y la suya propia, hasta
+facilita el uso de TOR para búsquedas.
+
+Google Alerts permite "suscribirse" a búsquedas y avisará de cambios en los resultados de la búsqueda.
+
+También se puede usar Google con un Feed RSS para realizar búsquedas automáticamente, suscriberse a cambios en webs y muchas más utilidades.
+
