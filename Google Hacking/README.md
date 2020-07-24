@@ -45,7 +45,8 @@ Cuanto más se sepa, por ejemplo, de una tecnología mejores búsquedas podremos
 
 
 Podemos permanecer más despapercibidos si el campo Referer(***"Campo de la petición que indica de dónde proviene el visitante"***)
-se mantiene, con la menor de cantidad posible, ***Ej, copiar una url de una búsqueda, abrir una nueva ventana y pegar la url ahí.***
+se mantiene, con la menor de cantidad de información posible,
+***Ej, copiar una url de una búsqueda, abrir una nueva ventana y pegar la url ahí.***
 
 Existen los "Google Hacking Honeypots", páginas creadas para aparecer en los Google Dorks, que pueden ser utilizadas incluso
 para cazar a posibles ciberdelincuentes.
