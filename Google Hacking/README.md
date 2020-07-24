@@ -12,7 +12,7 @@ __Operadores de Búsqueda:__
 + filetype: __extension__. Busca archivos del tipo extension.
 + ext: __extension__. Busca archivos del tipo extension.
 + \- __operador: arg__. se pueden crear condiciones excluyentes
-[Más en operadores](https://support.google.com/websearch/?hl=es
+[Más en operadores](https://support.google.com/websearch/?hl=es)
 
 Si hacemos esta búsqueda=> inurl:security "phpmyadmin is free", podemos encontrar un sitio que nos cuenta
 todo sobre la tecnología de sitio, además de cuentas de admin sin contraseña.
