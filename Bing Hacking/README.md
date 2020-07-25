@@ -14,6 +14,8 @@ __Operadores de Búsqueda:__
 + contains: __extension__. Busca documentos que tienen enlaces a ficheros de la extensión dada.
 + \- __operador: arg__. Hace el operador excluyente.
 + instreamset(__url|body|title|anchor__):__str__ .Busca que los resultados contengan str en el sition indicado. 
++ noalter: "__search_str__". Se asegura de que no se hagan modificaciones en las palabras buscadas.
++ norelax: "__str__". Bing marca como poco importantes las palabras a partir de la quinta palabra, el operador se asegura de que eso no pase
 [Más en operadores](https://docs.microsoft.com/en-us/previous-versions/bing/search/ff795634(v=msdn.10))
 
 La búsqueda avanzada en Bing es muy parecida a la de Google.
@@ -25,3 +27,15 @@ Para realizar ingeniería social una búsqueda con el objetivo de encontrar emai
 A veces para que los e-mails no sean recogidos por robots se escriben de esta forma:<br>
 ***"sample@gmail.com" ==> "sample at gmail dot com"***<br>
 Para buscar este tipo de email tendríamos que hacer una búsqueda como: ***"noalter:"sample at gmail dot com""***
+
+Muchas veces las formas de recuperar una contraseña son inseguras y es importante revisar cómo funciona el proceso.
+
+En emails los ficheros adjuntos se envían codificados en Base64.
+
+Bing tiene una opción de búsqueda segura para filtrar contenido para adultos.
+
+Se puede acceder a la cache de una página a través de su url.<br>
+{URL_PAGINA}?d=valor_d&w=valor_w <br>
+d_valor y w_valor se pueden sacar de la etiqueta div de la clase b_atributttion del código html de la búsqueda.
+
+La herramienta Diggity ayuda a automatizar los procesos de búsquedas en Bing.
