@@ -20,3 +20,8 @@ La búsqueda avanzada en Bing es muy parecida a la de Google.
 
 Con el operador ***"contains:"*** podemos encontrar páginas no indexadas por robots.***'contains:log ws_ftp intitle:"index of"'***
 
+Para realizar ingeniería social una búsqueda con el objetivo de encontrar emails es perfecta.<br>
+***"e-mail near:4 "microsoft.com"***<br>
+A veces para que los e-mails no sean recogidos por robots se escriben de esta forma:<br>
+***"sample@gmail.com" ==> "sample at gmail dot com"***<br>
+Para buscar este tipo de email tendríamos que hacer una búsqueda como: ***"noalter:"sample at gmail dot com""***
