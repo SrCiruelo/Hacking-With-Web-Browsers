@@ -59,4 +59,4 @@ También se pueden usar scripts, por ejemplo, php para conseguir más control al
 Para evitar esto, hay que revisar periodicamente el html de la página, además de realizar auditorías a 
 la aplicación. 
 
-Existen herramientas con ***"Bluefinder"*** que permite detectar de forma automática Cloaking.
+Existen herramientas como ***"Bluefinder"*** que permite detectar de forma automática Cloaking.
