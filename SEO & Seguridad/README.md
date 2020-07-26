@@ -25,7 +25,7 @@ __Spameando en foros,blogs,comentarios... etc.__ esto se puede remediar con etiq
 ningún enlace referenciado dentro de la página o un atributo como: ***\<a href="google.com" rel="nofollow"\>***.<br>
 De esta forma se deja inútil al spam.
 
-## __PROBLEMAS DE SEGURIDAD__
+### __PROBLEMAS DE SEGURIDAD__
 
 Los problemas con la seguridad de la propia página puede ser un objetivo para los hackers que quieren 
 mejorar el posicionamiento de sus páginas. 
