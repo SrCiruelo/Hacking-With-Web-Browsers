@@ -36,7 +36,7 @@ estos elementos que no se ven en la página empeoran el ranking de nuestra pági
 le beneficiaría a él también, así que hacen usos de scripts para introducir elementos en la página de forma que no se pueda
 empeorar el ranking en base al código introducido.
 
-### __Cloaking forzado
+### __Cloaking forzado__
 
 El Cloaking es una práctica que consiste en proporcionar distintos archivos html dependiendo de las cabeceras
 de la petición del visitante, por ejemplo, dependiendo del user-agent dar una página u otra, de esta forma, cuando
