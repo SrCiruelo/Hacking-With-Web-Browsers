@@ -16,6 +16,7 @@ __Operadores de Búsqueda:__
 + instreamset(__url|body|title|anchor__):__str__ .Busca que los resultados contengan str en el sition indicado. 
 + noalter: "__search_str__". Se asegura de que no se hagan modificaciones en las palabras buscadas.
 + norelax: "__str__". Bing marca como poco importantes las palabras a partir de la quinta palabra, el operador se asegura de que eso no pase
++ ip: "__ip__". Busca sitios hosteados por la ip dada.
 [Más en operadores](https://docs.microsoft.com/en-us/previous-versions/bing/search/ff795634(v=msdn.10))
 
 La búsqueda avanzada en Bing es muy parecida a la de Google.
