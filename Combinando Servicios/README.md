@@ -4,7 +4,7 @@ Robtex es una apliccación web que permite conseguir información sobre dominios
 
 Haciendo uso de Robtex podemos encontrar las ips que pertenecen a un relacionadas con un dominion.<br>
 ***Ej, Encontramos que las ips 150.203 son ips pertenecientes a anu.edu de forma que podemos hacer***
-***una búsqueda en Google del tipo 150.203.*.* para encontrar más información sobre la organización objetivo***
+***una búsqueda en Google del tipo 150.203.\*.\* para encontrar más información sobre la organización objetivo***
 
 ### Descifrar Contraseñas
 
