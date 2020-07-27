@@ -13,6 +13,7 @@ __Operadores de Búsqueda:__
 + ext: __extension__. Busca archivos del tipo extension.
 + \- __operador: arg__. Hace el operador excluyente.
 + __filter=0__ en URL. Permite ver todos los resultados aunque sean muy parecidos 
++ link:"__domain__". Busca sitios referenciados por el dominio especificado.
 [Más en operadores](https://support.google.com/websearch/?hl=es)
 
 Si hacemos esta búsqueda=> inurl:security "phpmyadmin is free", podemos encontrar un sitio que nos cuenta
