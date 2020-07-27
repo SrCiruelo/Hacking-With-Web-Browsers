@@ -1,7 +1,7 @@
 Existen vulnerabilidades que se pueden inyectar en la propia URL, SQL injection, XSS, Local File Include... .<br>
 De forma que cualquier buscador puede indexar páginas con código malicioso como este, no solo es peligroso que aparezca
 en los resultados de búsqueda si no que también el propio robot y su dominio se pueden ver afectados. <br>
-***PD: Por esta última razón Google y Bing alojan la caché en un dominio alternativo y no el principal***
+***PD: Porque los ataques XSS pueden causar DNS Cache Poisoning Google y Bing alojan la caché en un dominio alternativo y no el principal***
 
 Además que el ataque sea realizado por un robot da más anonimato al atacante.
 
