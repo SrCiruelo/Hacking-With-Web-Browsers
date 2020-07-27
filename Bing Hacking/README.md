@@ -5,9 +5,9 @@ __Operadores de Búsqueda:__
 + intitle: __str__. Busca una página con str en el título.
 + inbody: __str__. Busca una página con str en el texto
 + site: __url__. Busca solo páginas del dominio indicado por url y en directorios con un máximo de dos niveles de profundidad<br>
-                *** Ej, Si queremos encontrar "health.news.my_page.com". Esta consulta no funcionará "site:my_page.com" *** 
+                ***Ej, Si queremos encontrar "health.news.my_page.com". Esta consulta no funcionará "site:my_page.com"*** 
 + site: __url__. Busca solo páginas del dominio indicado por url.<br>
-                *** Ej, Si queremos encontrar "health.news.my_page.com". Esta consulta si funcionará "domain:my_page.com" *** 
+                ***Ej, Si queremos encontrar "health.news.my_page.com". Esta consulta si funcionará "domain:my_page.com"*** 
 + __strA__ OR __strB__. Funciona como el operador lógico OR.
 + filetype: __extension__. Busca archivos del tipo extension y no tiene en cuenta su extensión.
 + ext: __extension__. Busca archivos con la extensión indicada.
