@@ -62,6 +62,18 @@ Si finalmente no conseguimos más resultados podemos cambiar de navegador.
 ==============================
 
 ==============================
-Si cambiar de navegador no funciona, ya solo queda hacer búsquedas con palabras que es muy probable que aparezcan
+Si cambiar de navegador no funciona, ya solo queda hacer búsquedas
+con palabras que es muy probable que aparezcan
 ==============================
 ```
+### Desvelando Información
+
+Los archivos robots.txt nos pueden revelar rutas de acceso que el administrador no que los usuarios normales vean por 
+motivos de seguridad(por supuesto esto es una práctica insegura).
+
+También podemos ver el archivo robots.txt en WayBackMachine para ver que ha ido cambiando.
+
+A veces en sitemaps.xml se inyectan enlaces maliciosos en dominios que no lo son.
+
+
+esto es una práctica insegura)
