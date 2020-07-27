@@ -17,6 +17,7 @@ __Operadores de Búsqueda:__
 + noalter: "__search_str__". Se asegura de que no se hagan modificaciones en las palabras buscadas.
 + norelax: "__str__". Bing marca como poco importantes las palabras a partir de la quinta palabra, el operador se asegura de que eso no pase
 + ip: "__ip__". Busca sitios hosteados por la ip dada.
++ linkfromdomain:"__domain__". Busca sitios referenciados por el dominio especificado.
 [Más en operadores](https://docs.microsoft.com/en-us/previous-versions/bing/search/ff795634(v=msdn.10))
 
 La búsqueda avanzada en Bing es muy parecida a la de Google.
